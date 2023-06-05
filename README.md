@@ -23,4 +23,5 @@ Washington University's Coding Bootcamp Program aided in the creation of this we
 ## License
 
 Please refer to the license in the repo.
+
 ---
